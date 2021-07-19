@@ -43,9 +43,9 @@
     padding: 50px;
     background-color:#E8E5E4;
   }
-  /*.form:hover{
+  .form:hover{
     transform: scale(1.1);
-  }*/
+  }
   .form {
     position: relative;
   }
